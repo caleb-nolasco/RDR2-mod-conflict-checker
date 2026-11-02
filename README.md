@@ -14,3 +14,8 @@ Written in Java
 
 ## 🛠️ Usage
 When running multiple mods, launch this executable in your game directory to detect conflicts.
+
+<img width="850" height="1100" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/d5cd0815-b785-41d1-9ae2-f7f0d7409512" />
+
+<img width="483" height="628" alt="image" src="https://github.com/user-attachments/assets/ad510981-3afc-48cf-8e88-bf2758f625ac" />
+
